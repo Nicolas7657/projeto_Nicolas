@@ -84,7 +84,7 @@ nav {
  	background-color: red;
  	background: url('../img/banner6.jpg') no-repeat;
  	background-size: cover;
- 	background-position: 0 55%;
+ 	background-position: center 55%;
  	position: relative;
  	margin-top: 100px;
  }
